@@ -1,8 +1,8 @@
-.body{
+body{
   margin: 0;
   text-align: center;
 }
-.h1{
+h1{
   width: 10%;
   margin: 0 auto;
   font-family: 'Allura', cursive;
@@ -10,40 +10,40 @@
   display: inline-block;
   width: 50%;
 }
-.h2,.h3{
+h2,h3{
   font-family: 'Montserrat', sans-serif;
 }
 .div{
   background-color: #E4F9F5;
 }
-.bottom-cloud{
+bottom-cloud{
   position: absolute;
   left: 300px;
   bottom: 300px;
 }
-.top-cloud{
+top-cloud{
   position: absolute;
   right: 300px;
   top: 50px;
 }
-.top-container{
+top-container{
   position: relative;
   padding-top: 100px;
 }
 .mountain-img{
   padding-bottom: 20px;
 }
-.p{
+p{
   font-weight: normal;
 }
-.hr{
+hr{
   width: 5%;
   border-style: none;
   border-top-style: dotted;
   border-color: black;
   border-width: 5px;
 }
-.btn {
+btn {
   background: #3498db;
   background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
   background-image: -moz-linear-gradient(top, #3498db, #2980b9);
@@ -60,7 +60,7 @@
   text-decoration: none;
 }
 
-.btn:hover {
+btn:hover {
   background: #053857;
   background-image: -webkit-linear-gradient(top, #053857, #11f0f0);
   background-image: -moz-linear-gradient(top, #053857, #11f0f0);
@@ -69,19 +69,19 @@
   background-image: linear-gradient(to bottom, #053857, #11f0f0);
   text-decoration: none;
 }
-.bottom-container{
+bottom-container{
   padding:50px 0 20px;
   background-color: #66BFBF;
 }
-.footer-link{
+footer-link{
   margin: 10px 20px
 }
-.footer-link:hover{
+footer-link:hover{
   color: white;
 }
-.copyright{
+copyright{
   color: white;
 }
-.middle-container{
+middle-container{
   padding-bottom: 30px;
 }
